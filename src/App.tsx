@@ -8,8 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          EDIT but in silence HELLO (RENZO EDITED THIS)<code>src/App.tsx</code> and save to reload.
         </p>
+        <p>Please merge this into your branch, thank you. </p>
         <a
           className="App-link"
           href="https://reactjs.org"
